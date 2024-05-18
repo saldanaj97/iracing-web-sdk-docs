@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Installation
 
-## Create your project
+## Create Your Project
 
 First you need to create a project if you haven't done so already. This can be achieved many different ways but for simplicity, we will be using NextJS.
 
@@ -16,7 +16,7 @@ npx create-next-app@latest my-iracing-project
 
 Follow all the steps and answer the questions presented in your terminal window and the project will then be created.
 
-## Download the package
+## Download The Package
 
 Next, you need to install the package using one of the package managers listed on the [Getting Started](/docs/getting-started/intro) page.
 
@@ -40,7 +40,7 @@ You can type this command into Terminal or any other integrated terminal of your
 
 The command also installs all necessary dependencies you need to run the SDK.
 
-## Start your site
+## Start Your Site
 
 1. Run the development server using `npm run dev` or `pnpm run dev`
 
@@ -50,7 +50,7 @@ The command also installs all necessary dependencies you need to run the SDK.
 
 Again, this is using NextJS so your NPM or PNPM scripts may be different depepnding on how you have chosen to setup your project.
 
-## Ready to go
+## Ready To Begin Building
 
 Now your project is setup with the iRacing-web-sdk package installed and you are ready to go!
 
